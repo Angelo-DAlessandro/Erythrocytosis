@@ -1,0 +1,66 @@
+Sample_ID,Participant_ID,Sample_status,Primary_omics_analysis,Baseline_participant_analysis,Group,Group_label,Age (years),Sex,EPO at diagnosis (mIU/mL),Thrombotic event before age 40
+Healthy_Control_4,Healthy_Control_4,Baseline sample,Yes,Yes,01-Ctrl,Control,31,F,,
+Healthy_Control_1,Healthy_Control_1,Baseline sample,Yes,Yes,01-Ctrl,Control,39,F,,
+Healthy_Control_7,Healthy_Control_7,Baseline sample,Yes,Yes,01-Ctrl,Control,27,F,,
+Healthy_Control_2,Healthy_Control_2,Baseline sample,Yes,Yes,01-Ctrl,Control,25,F,,
+Healthy_Control_6,Healthy_Control_6,Baseline sample,Yes,Yes,01-Ctrl,Control,38,M,,
+Healthy_Control_3,Healthy_Control_3,Baseline sample,Yes,Yes,01-Ctrl,Control,26,F,,
+Healthy_Control_5,Healthy_Control_5,Baseline sample,Yes,Yes,01-Ctrl,Control,25,M,,
+F2_1,F2_1,Baseline sample,No,Yes,02-Family,VHL-heterozygous relative,52,M,,
+F5_1,F5_1,Baseline sample,Yes,Yes,02-Family,VHL-heterozygous relative,41,F,,
+F1_1,F1_1,Baseline sample,Yes,Yes,02-Family,VHL-heterozygous relative,46,F,,
+F3_1,F3_1,Baseline sample,Yes,Yes,02-Family,VHL-heterozygous relative,42,F,,
+F6_1,F6_1,Baseline sample,No,Yes,02-Family,VHL-heterozygous relative,48,F,,
+F4_1,F4_1,Baseline sample,Yes,Yes,02-Family,VHL-heterozygous relative,46,M,,
+P15,P15,Baseline sample,Yes,Yes,03-EGLN1,EGLN1-associated erythrocytosis,65,M,43.0,No
+P14,P14,Baseline sample,Yes,Yes,03-EGLN1,EGLN1-associated erythrocytosis,33,M,39.0,No
+P14MED,P14,Repeat sample (MED suffix),Yes,No,03-EGLN1,EGLN1-associated erythrocytosis,33,M,39.0,No
+P5,P5,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,5,M,345.0,No
+P7,P7,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,5,F,58.0,No
+P3,P3,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,22,M,88.0,No
+P8,P8,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,28,F,134.0,No
+P22,P22,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,17,F,56.0,No
+P6,P6,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,48,F,65.0,No
+P4,P4,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,48,F,143.0,No
+P9,P9,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,36,F,97.0,No
+P10,P10,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,28,M,101.0,No
+P13,P13,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,21,F,287.0,Yes
+P11,P11,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,22,M,621.0,Yes
+P1,P1,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,24,M,496.0,No
+P12,P12,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,17,M,598.0,Yes
+P2,P2,Baseline sample,Yes,Yes,03-VHL,VHL-associated erythrocytosis,20,M,121.0,Yes
+P18,P18,Baseline sample,Yes,Yes,04-EPAS1,EPAS1-associated erythrocytosis,49,M,34.0,No
+P19,P19,Baseline sample,Yes,Yes,04-EPAS1,EPAS1-associated erythrocytosis,4,F,26.0,No
+P17,P17,Baseline sample,Yes,Yes,04-EPAS1,EPAS1-associated erythrocytosis,7,F,56.0,No
+P20,P20,Baseline sample,Yes,Yes,04-EPAS1,EPAS1-associated erythrocytosis,36,M,32.0,No
+P21,P21,Baseline sample,Yes,Yes,04-EPAS1,EPAS1-associated erythrocytosis,24,M,38.0,No
+P27,P27,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,3,F,6.0,No
+P26,P26,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,23,M,2.0,No
+P25,P25,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,22,M,5.0,No
+P28,P28,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,37,F,8.0,No
+P23,P23,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,54,M,2.0,No
+P29,P29,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,35,F,9.0,No
+P24,P24,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,56,M,3.0,No
+P30,P30,Baseline sample,Yes,Yes,05-EPOR,EPOR-associated erythrocytosis,64,M,7.0,No
+P36,P36,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,34,F,21.0,No
+P35,P35,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,40,M,15.0,No
+P32,P32,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,43,M,16.0,No
+P34,P34,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,43,F,26.0,No
+P31,P31,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,18,M,18.0,No
+P33,P33,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,18,M,21.0,No
+P37,P37,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,16,M,19.0,No
+P45,P45,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,24,M,31.0,No
+P44,P44,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,42,M,28.0,No
+P16,P16,Baseline sample,Yes,Yes,06-HAH,High-affinity hemoglobin-associated erythrocytosis,23,M,14.0,No
+P49,P49,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,4,F,54.0,No
+P46,P46,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,17,M,21.0,No
+P43,P43,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,10,M,29.0,No
+P40,P40,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,28,M,18.0,No
+P41,P41,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,34,M,75.0,No
+P50,P50,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,39,M,51.0,No
+P38,P38,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,2,M,98.0,No
+P42,P42,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,36,M,21.0,No
+P39,P39,Baseline sample,Yes,Yes,07-NDD,Unresolved erythrocytosis,17,M,132.0,No
+P47,P47,Baseline sample,Yes,Yes,08-PDE4-associated,PDE4-associated acrodysostosis with unresolved erythrocytosis,14,M,18.0,No
+P47MED,P47,Repeat sample (MED suffix),Yes,No,08-PDE4-associated,PDE4-associated acrodysostosis with unresolved erythrocytosis,14,M,18.0,No
+P48,P48,Baseline sample,Yes,Yes,08-PDE4-associated,PDE4-associated acrodysostosis with unresolved erythrocytosis,16,F,13.0,No
